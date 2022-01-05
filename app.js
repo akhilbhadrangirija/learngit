@@ -7,3 +7,4 @@ document.getElementById("new").onclick{
     document.getElementById("head").innerHTML="dark";
     };
     
+document.getElementById("head").innerHTML="dark";
